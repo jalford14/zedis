@@ -1,0 +1,15 @@
+# Zig build artifacts and caches
+.zig-cache/
+zig-out/
+zig-pkg/
+
+# Compiled binaries and libraries
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# macOS
+.DS_Store
